@@ -185,4 +185,4 @@ Halaman notifikasi khusus untuk admin.
 - **npm** - Node.js package manager
 - **Laragon/XAMPP** - Local development environment
 
-**Dibuat oleh Kelompok 8 - Genap (Elektro Space)**
+**Dibuat oleh Kelompok 10 (Elektro Space)**
