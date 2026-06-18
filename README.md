@@ -17,10 +17,6 @@ Aplikasi ini dibangun menggunakan teknologi modern dengan arsitektur full-stack:
 - **Rima Dwi Puspitasari** - 2315061038 
 - **Naomi Theresia. S** - 2315061091 
 
-## Link YouTube
-
-🎥 **Demo Aplikasi**: [Link YouTube Demo](https://youtu.be/WbU57SO1eXc)
-
 ## Fitur Sistem
 
 ### Fitur Pengguna (User)
